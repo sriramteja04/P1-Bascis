@@ -1,0 +1,11 @@
+C:\Users\s531524\Documents\semester 4\44663-01\p1Bascis\obj\Debug\netcoreapp2.2\p1Bascis.csprojAssemblyReference.cache
+C:\Users\s531524\Documents\semester 4\44663-01\p1Bascis\obj\Debug\netcoreapp2.2\p1Bascis.csproj.CoreCompileInputs.cache
+C:\Users\s531524\Documents\semester 4\44663-01\p1Bascis\obj\Debug\netcoreapp2.2\p1Bascis.AssemblyInfoInputs.cache
+C:\Users\s531524\Documents\semester 4\44663-01\p1Bascis\obj\Debug\netcoreapp2.2\p1Bascis.AssemblyInfo.cs
+C:\Users\s531524\Documents\semester 4\44663-01\p1Bascis\bin\Debug\netcoreapp2.2\p1Bascis.deps.json
+C:\Users\s531524\Documents\semester 4\44663-01\p1Bascis\bin\Debug\netcoreapp2.2\p1Bascis.runtimeconfig.json
+C:\Users\s531524\Documents\semester 4\44663-01\p1Bascis\bin\Debug\netcoreapp2.2\p1Bascis.runtimeconfig.dev.json
+C:\Users\s531524\Documents\semester 4\44663-01\p1Bascis\bin\Debug\netcoreapp2.2\p1Bascis.dll
+C:\Users\s531524\Documents\semester 4\44663-01\p1Bascis\bin\Debug\netcoreapp2.2\p1Bascis.pdb
+C:\Users\s531524\Documents\semester 4\44663-01\p1Bascis\obj\Debug\netcoreapp2.2\p1Bascis.dll
+C:\Users\s531524\Documents\semester 4\44663-01\p1Bascis\obj\Debug\netcoreapp2.2\p1Bascis.pdb
