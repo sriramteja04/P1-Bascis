@@ -1,2 +1,2 @@
 # P1-Bascis
-[screenshot]! Screenshot.png
+![screenshot] Screenshot.png
