@@ -38,7 +38,12 @@ namespace p1Bascis
                 roundTrip = false;
             }
             
-            
+            // findTotalPrice Function to find the the toal proce of the trip.
+            decimal findTotalPrice(int daysIn, decimal priceIn){
+                var totalPrice = 0.0m;
+                totalPrice = daysIn*priceIn;
+                return totalPrice;
+            }
         }
         
     }
